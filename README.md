@@ -9,6 +9,8 @@ Submit: code; support file to explain each step and the results; team file to ex
 
 
 ```bash
+git pull origin master
+
 git add *
 
 git commit -m "Your message here. Be specfic!"
